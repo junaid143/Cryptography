@@ -1,0 +1,32 @@
+1 - implement password salting and hashing to create secure passwords
+
+
+2 -  implement various classical ciphers-Substitution Cipher, Vigenère Cipher, and Affine cipher
+
+
+3 - demonstrate cryptanalysis (e.g., breaking Caesar or Vigener Cipher)
+
+
+4 -  implement AES algorithm for file encryption and decryption
+
+
+5 -  implement various block cipher modes
+
+
+6 -  implement various block cipher modes
+
+
+7 - implement HMAC for signing messages
+
+
+8 - implement Sending Secure Messages Over IP Networks
+
+
+9 - implement RSA encryption/decryption
+
+
+10 - o implement (i) El-Gamal Cryptosystem (ii) Elliptic Curve Cryptograph
+
+
+
+
